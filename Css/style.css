@@ -474,4 +474,18 @@
     }
   }
   
-  
+ /*****************video*****************/
+ .vidwrapper{
+  width: 480px; max-width: 900px;
+  height: 480px;
+  margin: 3em auto;
+  border: 5px solid ;
+  border-color: -webkit-linear-gradient(to right, #dd2476, #ff512f);
+  border-color: linear-gradient(to right, #dd2476, #ff512f);
+
+ } 
+ .vidcontainer{
+  width: 480px;  height: 480px;
+  padding-bottom: 56.25%;
+
+ }
